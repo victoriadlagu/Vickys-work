@@ -4,13 +4,15 @@ Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudante
 
 **Asegúrate de seguir la estructuras de las carpetas y archivos de tu repositorio.**
 
-## Mis datos
+## Recuerda
 
-Asegúrate de llenar lo siguiente:
+Al compartir tu repo en los foros del curso, segúrate de agregar lo siguiente también:
 
 | Nº Alumno    | Nombre              | Email UC      |
 |:-------------|:--------------------|:--------------|
 | XXXXXXXXXX   | Nombre alumno       | correo@uc.cl  |
+
+* No rellenes la información en este readme, probablemente este será un repo público, solo añádela en el foro junto al link.
 
 Si tienes dudas de cómo utilizar `Markdown`, puedes ir a [esta página.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
