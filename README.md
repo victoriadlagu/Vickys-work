@@ -8,9 +8,9 @@ Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudante
 
 Al compartir tu repo en los foros del curso, segúrate de agregar lo siguiente también:
 
-| Nº Alumno    | Nombre              | Email UC      |
-|:-------------|:--------------------|:--------------|
-| XXXXXXXXXX   | Nombre alumno       | correo@uc.cl  |
+| Nombre              | Email UC      |
+|:--------------------|:--------------|
+| Nombre alumno       | correo@uc.cl  |
 
 * No rellenes la información en este readme, probablemente este será un repo público, solo añádela en el foro junto al link.
 
