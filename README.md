@@ -2,6 +2,8 @@
 
 Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudantes y profesores tienen acceso a este. Debes darle un buen uso y solo con fines académicos.
 
+##Vicky es la mejor
+
 **Asegúrate de seguir la estructuras de las carpetas y archivos de tu repositorio.**
 
 ## Recuerda
